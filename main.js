@@ -5,6 +5,6 @@ lottiePlayer.loadAnimation({
   renderer: "svg",
   loop: true,
   autoplay: true,
-  path: '../public/heart.json',
+  path: '/heart.json',
   container: document.querySelector("#app")
 });
